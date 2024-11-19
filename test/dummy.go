@@ -15,7 +15,7 @@ import (
 )
 
 // DefaultMaxBlobSize is the default max blob size
-const DefaultMaxBlobSize = 64 * 64 * 482
+const DefaultMaxBlobSize = 64 * 64 * 482000000
 
 // DummyDA is a simple implementation of in-memory DA. Not production ready! Intended only for testing!
 //
